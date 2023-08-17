@@ -1,0 +1,14 @@
+dbc
+maps
+vmaps
+mmaps
+*.log
+.vs
+*.exe
+*.dll
+*.dist.in
+*.dist
+*.backup
+*.pdb
+*.ilk
+*.ini
